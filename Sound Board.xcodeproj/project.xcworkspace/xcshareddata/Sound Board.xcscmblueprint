@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D1DC9CC38569691487DDDC15906E49945B92221A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "126EA57CB0176951EFA07319CEA0CAE3EE9290B5" : 9223372036854775807,
+    "D1DC9CC38569691487DDDC15906E49945B92221A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "62130614-B09E-418E-8D77-42591F1695A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "126EA57CB0176951EFA07319CEA0CAE3EE9290B5" : "",
+    "D1DC9CC38569691487DDDC15906E49945B92221A" : "Sound%20Board\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sound Board",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sound Board.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/debjgraham\/FreakingiPhoneAppiOS10Swift3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "126EA57CB0176951EFA07319CEA0CAE3EE9290B5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/debjgraham\/SoundBoard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1DC9CC38569691487DDDC15906E49945B92221A"
+    }
+  ]
+}
